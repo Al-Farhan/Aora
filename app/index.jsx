@@ -25,7 +25,7 @@ export default function App() {
           />
 
           <Image
-            source={images.cards} // TODO: fix image source
+            source={images.cards}
             className="max-w-[380px] w-full h-[298px]"
             resizeMode='contain'
           />
