@@ -2,7 +2,6 @@ import { router, usePathname } from "expo-router";
 import { useState } from "react";
 import {
   View,
-  Text,
   TextInput,
   TouchableOpacity,
   Image,
